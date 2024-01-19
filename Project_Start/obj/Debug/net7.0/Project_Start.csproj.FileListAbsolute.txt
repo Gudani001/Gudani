@@ -1,0 +1,15 @@
+/workspaces/Gudani/Project_Start/obj/Debug/net7.0/Project_Start.csproj.AssemblyReference.cache
+/workspaces/Gudani/Project_Start/obj/Debug/net7.0/Project_Start.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Gudani/Project_Start/obj/Debug/net7.0/Project_Start.AssemblyInfoInputs.cache
+/workspaces/Gudani/Project_Start/obj/Debug/net7.0/Project_Start.AssemblyInfo.cs
+/workspaces/Gudani/Project_Start/obj/Debug/net7.0/Project_Start.csproj.CoreCompileInputs.cache
+/workspaces/Gudani/Project_Start/bin/Debug/net7.0/Project_Start
+/workspaces/Gudani/Project_Start/bin/Debug/net7.0/Project_Start.deps.json
+/workspaces/Gudani/Project_Start/bin/Debug/net7.0/Project_Start.runtimeconfig.json
+/workspaces/Gudani/Project_Start/bin/Debug/net7.0/Project_Start.dll
+/workspaces/Gudani/Project_Start/bin/Debug/net7.0/Project_Start.pdb
+/workspaces/Gudani/Project_Start/obj/Debug/net7.0/Project_Start.dll
+/workspaces/Gudani/Project_Start/obj/Debug/net7.0/refint/Project_Start.dll
+/workspaces/Gudani/Project_Start/obj/Debug/net7.0/Project_Start.pdb
+/workspaces/Gudani/Project_Start/obj/Debug/net7.0/Project_Start.genruntimeconfig.cache
+/workspaces/Gudani/Project_Start/obj/Debug/net7.0/ref/Project_Start.dll
